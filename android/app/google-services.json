@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "414498586527",
+    "project_id": "foodtesting-6d6a5",
+    "storage_bucket": "foodtesting-6d6a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414498586527:android:2c09df7f67e868fa2387aa",
+        "android_client_info": {
+          "package_name": "com.example.food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqYykAgv4LrTFFZJfaJ7v70kLRg2bGLII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
